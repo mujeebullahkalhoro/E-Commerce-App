@@ -27,6 +27,8 @@ function NavBar() {
             
         </ul>
 
+        
+
 
 
     </nav>
